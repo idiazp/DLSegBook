@@ -10,11 +10,13 @@ La radiación ionizante, al interactuar con el material biológico, produce romp
 
 En función del objetivo clínico, la radioterapia puede emplearse con distintas intenciones [9], señaladas en la Tabla 1:
 
-Tabla 1: Funciones de la radioterapia como objetivo clínico
-Objetivo	Descripción
-Tratamiento curativo (radical)	Busca la erradicación completa del tumor y la curación del paciente. Por ejemplo, un carcinoma de próstata localizado de riesgo intermedio o alto puede tratarse con radioterapia externa conformada de alta precisión (e.g., IMRT/VMAT con guía por imágenes) con intención curativa.
-Terapia adyuvante	Se administra después de un tratamiento primario (cirugía) para eliminar microscópicos focos residuales y reducir el riesgo de recurrencia. Un caso típico es la RT postoperatoria en cáncer de mama para eliminar células remanentes en la pared torácica.
-Terapia neoadyuvante	Se emplea antes de la intervención quirúrgica con el objetivo de reducir el tamaño tumoral y facilitar una cirugía subsiguiente más conservadora o efectiva (p.ej., radioterapia preoperatoria en cáncer de recto localmente avanzado).
-Terapia paliativa	Orientada no a curar, sino a aliviar síntomas y mejorar la calidad de vida en enfermedad metastásica o incurable (por ejemplo, RT sobre metástasis óseas dolorosas para aliviar el dolor).
+**Tabla 1. Funciones de la radioterapia según objetivo clínico**
+
+| Objetivo | Descripción |
+|---------|-------------|
+| **Tratamiento curativo (radical)** | Busca la erradicación completa del tumor y la curación del paciente. Por ejemplo, un carcinoma de próstata localizado de riesgo intermedio o alto puede tratarse con radioterapia externa conformada de alta precisión (e.g., IMRT/VMAT con guía por imágenes) con intención curativa. |
+| **Terapia adyuvante** | Se administra después de un tratamiento primario (cirugía) para eliminar microscópicos focos residuales y reducir el riesgo de recurrencia. Un caso típico es la radioterapia postoperatoria en cáncer de mama para eliminar células remanentes en la pared torácica. |
+| **Terapia neoadyuvante** | Se emplea antes de la intervención quirúrgica con el objetivo de reducir el tamaño tumoral y facilitar una cirugía subsiguiente más conservadora o efectiva (p.ej., radioterapia preoperatoria en cáncer de recto localmente avanzado). |
+| **Terapia paliativa** | Orientada no a curar, sino a aliviar síntomas y mejorar la calidad de vida en enfermedad metastásica o incurable (por ejemplo, radioterapia sobre metástasis óseas dolorosas para aliviar el dolor). |
 
 Estas distintas finalidades ilustran la versatilidad de la radioterapia en oncología. Dependiendo del caso, la dosis total administrada y la fraccionación (tamaño de dosis por sesión y número de sesiones) variarán. En escenarios curativos, las dosis tienden a ser altas (70-80 Gy en próstata, típicamente fraccionadas en 35-40 sesiones de ~2 Gy), mientras que en contextos paliativos se usan esquemas abreviados (por ejemplo 20 Gy en 5 sesiones) enfocados en el control sintomático. Un Gray (Gy) equivale a la absorción de un joule de energía por kilogramo de material irradiado [10].
