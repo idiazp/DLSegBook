@@ -71,7 +71,7 @@ body {
 
 .content {
   margin-left: 290px;
-  max-width: 920px;
+  max-width: 880px;
   padding: 36px 44px;
 }
 
@@ -150,4 +150,64 @@ code, pre {
     margin-left: 0;
     padding: 24px 18px;
   }
+}
+
+/* ---- Estilo de tablas para contenido académico ---- */
+
+.content table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 1.5rem 0 2rem 0;
+  font-size: 0.95rem;
+}
+
+.content thead {
+  background-color: #f3f6fb;
+}
+
+.content th {
+  border: 1px solid #cfd6df;
+  padding: 10px 12px;
+  text-align: left;
+  font-weight: 600;
+}
+
+.content td {
+  border: 1px solid #cfd6df;
+  padding: 10px 12px;
+  vertical-align: top;
+}
+
+.content tbody tr:nth-child(even) {
+  background-color: #fafbfd;
+}
+
+.content tbody tr:hover {
+  background-color: #f2f6ff;
+}
+
+.content th:first-child,
+.content td:first-child {
+  width: 28%;
+  font-weight: 500;
+}
+
+/* ---- Estilo de figuras ---- */
+
+.content img {
+  display: block;
+  margin: 1.5rem auto 0.6rem auto;
+  max-width: 100%;
+  height: auto;
+}
+
+.figure-caption {
+  text-align: center;
+  font-size: 0.92rem;
+  color: #444;
+  margin-bottom: 1.6rem;
+}
+
+.figure-caption b {
+  font-weight: 600;
 }
