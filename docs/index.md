@@ -6,6 +6,7 @@ Apuntes sobre deep learning para segmentación de órganos en radioterapia.
 
 ### Parte I. Fundamentos clínicos
 - [1. Cáncer de próstata y su diagnóstico](01_contexto_clinico.html)
+- [2. Tratamiento del cáncer](02_tratamiento_cancer.html)
 
 ### Parte II. Base técnica
 - [2. Imágenes médicas](02_imagenes_medicas.html)
