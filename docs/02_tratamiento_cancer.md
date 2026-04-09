@@ -67,7 +67,7 @@ Las principales técnicas modernas de radioterapia y sus características se res
 La administración segura y efectiva de radioterapia requiere seguir un proceso riguroso de planificación y verificación, comúnmente denominado flujo de trabajo de radioterapia o cadena radioterápica. Las etapas principales de este proceso clínico se ilustran en la **Figura 4** [23], [24]:
  
 <div align="center">
-  <img src="images/Imagen4.png" width="400px">
+  <img src="images/Imagen4.png" width="800px">
   <p><b>Figura 4:</b> Flujo de trabajo en radioterapia.</p>
 </div>
 
