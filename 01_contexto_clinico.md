@@ -2,13 +2,10 @@
 
 El cáncer de próstata (ver {numref}`figura-prostata`) es uno de los tipos de cáncer más frecuentes en la población masculina a nivel mundial. Representa el tumor no cutáneo más diagnosticado en hombres y constituye una de las principales causas de mortalidad por cáncer en varones [1]. Su incidencia aumenta significativamente con la edad, observándose la mayoría de los casos en hombres mayores de 65 años. En numerosos países, las tasas de mortalidad por cáncer de próstata han mostrado una tendencia a la disminución durante las últimas décadas, lo que se atribuye en parte a mejoras en las estrategias de detección precoz y al avance en las alternativas terapéuticas disponibles [2].
 
-```{figure} images/prostata_anatomia.png
-:name: figura-prostata
-:width: 400px
-:align: center
-
-Ubicación anatómica de la próstata en la pelvis masculina.
-```
+<div align="center">
+  <img src="images/prostata_anatomia.png" width="400px" id="figura-prostata">
+  <p><b>Figura: Ubicación anatómica de la próstata en la pelvis masculina.</b></p>
+</div>
 
 En Chile, el cáncer de próstata representa una importante carga sanitaria y corresponde a la tercera causa de muerte por cáncer en hombres. Según datos epidemiológicos nacionales, la tasa de mortalidad ajustada registrada durante el año 2016 fue de 15,65 por cada 100.000 habitantes. Sin embargo, existen diferencias regionales significativas. Algunas regiones presentan tasas superiores al promedio nacional, destacando Valparaíso (17,06), Libertador General Bernardo O’Higgins (20,27), Maule (18,35), Biobío (16,53), Los Ríos (17,59) y Los Lagos (16,54 por 100.000 habitantes), como se muestra en {numref}`figura-mortalidad` [3].
 
