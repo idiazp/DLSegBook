@@ -3,8 +3,6 @@ layout: default
 title: Cáncer de próstata y su diagnóstico
 ---
 
-# Cáncer de próstata y su diagnóstico
-
 El cáncer de próstata (**Figura 1**) es uno de los tipos de cáncer más frecuentes en la población masculina a nivel mundial. Representa el tumor no cutáneo más diagnosticado en hombres y constituye una de las principales causas de mortalidad por cáncer en varones [1]. Su incidencia aumenta significativamente con la edad, observándose la mayoría de los casos en hombres mayores de 65 años. En numerosos países, las tasas de mortalidad por cáncer de próstata han mostrado una tendencia a la disminución durante las últimas décadas, lo que se atribuye en parte a mejoras en las estrategias de detección precoz y al avance en las alternativas terapéuticas disponibles [2].
 
 <div align="center">
