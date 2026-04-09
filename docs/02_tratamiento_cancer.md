@@ -6,8 +6,6 @@ El abordaje terapéutico del cáncer de próstata –y de los procesos oncológi
 
 La radioterapia (RT) consiste en la administración controlada de radiación ionizante con el objetivo de destruir las células tumorales, procurando a la vez minimizar el daño a los tejidos sanos circundantes. Este principio terapéutico se basa en la mayor sensibilidad a la radiación que presentan las células cancerosas en comparación con las células normales, especialmente aquellas neoplásicas con alta tasa de proliferación. 
 
-La radiación ionizante, al interactuar con el material biológico, produce rompimiento de las cadenas de ADN de las células. Esto puede ocurrir de forma directa, al impactar directamente la doble hélice de ADN, o de forma indirecta, al ionizar moléculas de agua y generar radicales libres que a su vez dañan estructuras vitales de la célula (incluyendo el ADN). Debido a que las células malignas suelen tener mecanismos de reparación menos eficientes y una capacidad reducida para detener su ciclo celular ante daño genómico, tienden a sufrir efectos letales de la radiación en mayor medida que las células sanas circundantes [8] . Esta ventana terapéutica es la base del uso de la radiación contra tumores.
-
 En función del objetivo clínico, la radioterapia puede emplearse con distintas intenciones [9], señaladas en la Tabla 1:
 
 **Tabla 1. Funciones de la radioterapia según objetivo clínico**
