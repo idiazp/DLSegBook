@@ -1,0 +1,34 @@
+<!doctype html>
+<html lang="es">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{{ page.title }} | {{ site.title }}</title>
+  <link rel="stylesheet" href="{{ '/assets/style.css' | relative_url }}">
+</head>
+<body>
+  <div class="site">
+    <aside class="sidebar">
+      <div class="sidebar-inner">
+        <h1><a href="{{ '/index.html' | relative_url }}">{{ site.title }}</a></h1>
+        <p class="site-desc">{{ site.description }}</p>
+
+        <nav>
+          <div class="nav-section">Contenido</div>
+          <a href="{{ '/index.html' | relative_url }}">Inicio</a>
+          <a href="{{ '/01_contexto_clinico.html' | relative_url }}">1. Cáncer de próstata y diagnóstico</a>
+          <a href="{{ '/02_tratamiento_cancer.html' | relative_url }}">2. Tratamiento del cáncer</a>
+          <a href="{{ '/03_imagenes_medicas.html' | relative_url }}">3. Imágenes médicas</a>
+          <a href="{{ '/04_segmentacion.html' | relative_url }}">4. Segmentación</a>
+          <a href="{{ '/05_deep_learning.html' | relative_url }}">5. Deep learning</a>
+          <a href="{{ '/06_metricas.html' | relative_url }}">6. Métricas</a>
+        </nav>
+      </div>
+    </aside>
+
+    <main class="content">
+      {{ content }}
+    </main>
+  </div>
+</body>
+</html>
