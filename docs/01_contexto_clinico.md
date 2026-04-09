@@ -37,4 +37,4 @@ El diagnóstico temprano del cáncer de próstata se basa en la integración de 
 
 ---
 
-[← Inicio](index.html) | [Siguiente: Imágenes médicas →](02_imagenes_medicas.html)
+[← Inicio](index.html) | [Siguiente: Tratamiento del cáncer →](02_tratamiento_cancer.html)
