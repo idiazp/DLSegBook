@@ -1,3 +1,3 @@
-#Tratamiento del cáncer
+# Tratamiento del cáncer
 
 El abordaje terapéutico del cáncer de próstata –y de los procesos oncológicos en general– suele requerir un manejo multidisciplinario que puede incluir cirugía, radioterapia y terapias sistémicas (como hormonoterapia, quimioterapia o inmunoterapia), según las características de la enfermedad y el paciente. En particular, la radioterapia destaca como una modalidad fundamental en el control locoregional del cáncer: se estima que aproximadamente la mitad de todos los pacientes con cáncer podrían beneficiarse de la radioterapia en alguna etapa de su tratamiento[7]. En el contexto del cáncer de próstata localizado, la radioterapia constituye una alternativa curativa equivalente a la cirugía (prostatectomía radical), y también se emplea de forma complementaria tras cirugía (terapia adyuvante) o para tratar recidivas locales (terapia de rescate) [8].
