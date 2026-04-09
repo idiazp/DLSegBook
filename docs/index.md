@@ -1,6 +1,11 @@
-# DLSegBook
+---
+layout: default
+title: Inicio
+---
 
-Apuntes sobre deep learning para segmentación de órganos en radioterapia.
+## Propósito del sitio
+
+Este material organiza conceptos fundamentales sobre radioterapia, imágenes médicas y segmentación automática de órganos, con foco en aplicaciones de deep learning en cáncer de próstata.
 
 ## Contenidos
 
@@ -15,7 +20,3 @@ Apuntes sobre deep learning para segmentación de órganos en radioterapia.
 ### Parte III. Modelos y evaluación
 - [4. Deep Learning para segmentación](04_deep_learning.html)
 - [5. Métricas de evaluación](05_metricas.html)
-
-## Propósito del sitio
-
-Este material organiza conceptos fundamentales sobre radioterapia, imágenes médicas y segmentación automática de órganos, con foco en aplicaciones de deep learning en cáncer de próstata.
