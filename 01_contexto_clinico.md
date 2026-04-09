@@ -6,6 +6,7 @@ El cáncer de próstata (ver {numref}`figura-prostata`) es uno de los tipos de c
 :name: figura-prostata
 :width: 400px
 :align: center
+
 Ubicación anatómica de la próstata en la pelvis masculina.
 ```
 
