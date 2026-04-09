@@ -1,9 +1,0 @@
-format: jb-book
-root: intro
-
-chapters:
-  - file: 01_contexto_clinico
-  - file: 02_imagenes_medicas
-  - file: 03_segmentacion
-  - file: 04_deep_learning
-  - file: 05_metricas
