@@ -15,14 +15,14 @@
 
         <nav>
           <div class="nav-section">Contenido</div>
-          <a href="{{ '/index.html' | relative_url }}">Inicio</a>
-          <a href="{{ '/01_contexto_clinico.html' | relative_url }}">1. Cáncer de próstata y diagnóstico</a>
-          <a href="{{ '/02_tratamiento_cancer.html' | relative_url }}">2. Tratamiento del cáncer</a>
-          <a href="{{ '/03_imagenes_medicas.html' | relative_url }}">3. Imágenes médicas</a>
-          <a href="{{ '/04_segmentacion.html' | relative_url }}">4. Segmentación</a>
-          <a href="{{ '/05_deep_learning.html' | relative_url }}">5. Deep learning</a>
-          <a href="{{ '/06_metricas.html' | relative_url }}">6. Métricas</a>
-        </nav>
+          <a href="{{ '/index.html' | relative_url }}" class="{% if page.url == '/index.html' or page.url == '/' %}active{% endif %}">Inicio</a>
+          <a href="{{ '/01_contexto_clinico.html' | relative_url }}" class="{% if page.url == '/01_contexto_clinico.html' %}active{% endif %}">1. Cáncer de próstata y diagnóstico</a>
+          <a href="{{ '/02_tratamiento_cancer.html' | relative_url }}" class="{% if page.url == '/02_tratamiento_cancer.html' %}active{% endif %}">2. Tratamiento del cáncer</a>
+          <a href="{{ '/03_imagenes_medicas.html' | relative_url }}" class="{% if page.url == '/03_imagenes_medicas.html' %}active{% endif %}">3. Imágenes médicas</a>
+          <a href="{{ '/04_segmentacion.html' | relative_url }}" class="{% if page.url == '/04_segmentacion.html' %}active{% endif %}">4. Segmentación</a>
+          <a href="{{ '/05_deep_learning.html' | relative_url }}" class="{% if page.url == '/05_deep_learning.html' %}active{% endif %}">5. Deep learning</a>
+          <a href="{{ '/06_metricas.html' | relative_url }}" class="{% if page.url == '/06_metricas.html' %}active{% endif %}">6. Métricas</a>
+        </nav>   
       </div>
     </aside>
 
