@@ -35,7 +35,7 @@ jobs:
 
       - name: Build the book
         run: |
-          jb build .
+          python -m jupyter_book build .
 
       - name: Setup Pages
         uses: actions/configure-pages@v5
