@@ -36,7 +36,14 @@ body {
   text-decoration: none;
   color: #0b5ed7;
 }
+.sidebar nav a.active {
+  color: #0b5ed7;
+  font-weight: bold;
+}
 
+.sidebar nav a.active::before {
+  content: "• ";
+}
 .site-desc {
   font-size: 0.95rem;
   color: #555;
