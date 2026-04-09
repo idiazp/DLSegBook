@@ -4,17 +4,16 @@ El cáncer de próstata (**Figura 1**) es uno de los tipos de cáncer más frecu
 
 <div align="center">
   <img src="images/prostata_anatomia.png" width="400px" id="figura-prostata">
-  <p><b>Figura: Ubicación anatómica de la próstata en la pelvis masculina.</b></p>
+  <p><b>Figura 1: Ubicación anatómica de la próstata en la pelvis masculina.</b></p>
 </div>
 
 En Chile, el cáncer de próstata representa una importante carga sanitaria y corresponde a la tercera causa de muerte por cáncer en hombres. Según datos epidemiológicos nacionales, la tasa de mortalidad ajustada registrada durante el año 2016 fue de 15,65 por cada 100.000 habitantes. Sin embargo, existen diferencias regionales significativas. Algunas regiones presentan tasas superiores al promedio nacional, destacando Valparaíso (17,06), Libertador General Bernardo O’Higgins (20,27), Maule (18,35), Biobío (16,53), Los Ríos (17,59) y Los Lagos (16,54 por 100.000 habitantes), como se muestra en {numref}`figura-mortalidad` [3].
 
-```{figure} images/mortalidad_prostata_chile.png
-:name: figura-mortalidad
-:width: 600px
-:align: center
-Distribución regional de las tasas de mortalidad cruda y ajustada por cáncer de próstata en Chile (2016).
-```
+<div align="center">
+  <img src="images/mortalidad_prostata_chile.png" width="400px" id="figura-mortalidad">
+  <p><b>Figura 2: Distribución regional de las tasas de mortalidad cruda y ajustada por cáncer de próstata en Chile (2016).</b></p>
+</div>
+
 
 ## Diagnóstico del cáncer de próstata
 
