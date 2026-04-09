@@ -7,7 +7,7 @@ El cáncer de próstata (**Figura 1**) es uno de los tipos de cáncer más frecu
   <p><b>Figura 1: Ubicación anatómica de la próstata en la pelvis masculina.</b></p>
 </div>
 
-En Chile, el cáncer de próstata representa una importante carga sanitaria y corresponde a la tercera causa de muerte por cáncer en hombres. Según datos epidemiológicos nacionales, la tasa de mortalidad ajustada registrada durante el año 2016 fue de 15,65 por cada 100.000 habitantes. Sin embargo, existen diferencias regionales significativas. Algunas regiones presentan tasas superiores al promedio nacional, destacando Valparaíso (17,06), Libertador General Bernardo O’Higgins (20,27), Maule (18,35), Biobío (16,53), Los Ríos (17,59) y Los Lagos (16,54 por 100.000 habitantes), como se muestra en {numref}`figura-mortalidad` [3].
+En Chile, el cáncer de próstata representa una importante carga sanitaria y corresponde a la tercera causa de muerte por cáncer en hombres. Según datos epidemiológicos nacionales, la tasa de mortalidad ajustada registrada durante el año 2016 fue de 15,65 por cada 100.000 habitantes. Sin embargo, existen diferencias regionales significativas. Algunas regiones presentan tasas superiores al promedio nacional, destacando Valparaíso (17,06), Libertador General Bernardo O’Higgins (20,27), Maule (18,35), Biobío (16,53), Los Ríos (17,59) y Los Lagos (16,54 por 100.000 habitantes), como se muestra en **Figura 2** [3].
 
 <div align="center">
   <img src="images/mortalidad_prostata_chile.png" width="400px" id="figura-mortalidad">
@@ -21,7 +21,7 @@ El diagnóstico del cáncer de próstata generalmente comienza mediante pruebas 
 
 Por esta razón, la interpretación del PSA debe realizarse considerando múltiples factores clínicos, entre ellos la edad del paciente, la densidad del PSA y la velocidad de incremento del marcador en el tiempo. Además, suele complementarse con el examen digital rectal, que permite detectar irregularidades en la superficie prostática o áreas de induración sospechosas [4].
 
-Cuando los hallazgos clínicos sugieren la presencia de malignidad, el diagnóstico definitivo se confirma mediante una biopsia prostática. Este procedimiento consiste en la obtención de múltiples muestras de tejido prostático que posteriormente son analizadas mediante examen histopatológico. El análisis microscópico permite confirmar la presencia de células tumorales y evaluar el grado de agresividad del cáncer mediante el sistema de Gleason, el cual clasifica el tumor según la arquitectura glandular observada. Esta clasificación proporciona información pronóstica relevante sobre el comportamiento biológico del tumor y su posible evolución clínica [5].
+Cuando los hallazgos clínicos sugieren la presencia de malignidad, el diagnóstico definitivo se confirma mediante una biopsia prostática. Este procedimiento consiste en la obtención de múltiples muestras de tejido prostático que posteriormente son analizadas mediante examen histopatológico. El análisis microscópico permite confirmar la presencia de células tumorales y evaluar el grado de agresividad del cáncer mediante el **sistema de Gleason**, el cual clasifica el tumor según la arquitectura glandular observada. Esta clasificación proporciona información pronóstica relevante sobre el comportamiento biológico del tumor y su posible evolución clínica [5].
 
 ## Rol de las imágenes médicas
 
@@ -31,6 +31,10 @@ En contraste, la resonancia magnética multiparamétrica (RMmp) ha demostrado un
 
 En etapas más avanzadas de la enfermedad, otros estudios de imagen como la tomografía computarizada (TC) y la gammagrafía ósea pueden utilizarse para detectar la presencia de metástasis, particularmente en pacientes clasificados como de alto riesgo [6].
 
-Síntesis
+**Síntesis**
 
 El diagnóstico temprano del cáncer de próstata se basa en la integración de múltiples herramientas clínicas y diagnósticas. La combinación de marcadores bioquímicos, evaluación clínica e imágenes médicas permite detectar la enfermedad en fases iniciales y caracterizar su agresividad. Esta información resulta fundamental para seleccionar la estrategia terapéutica más adecuada y optimizar el manejo clínico de los pacientes.
+
+---
+
+[← Inicio](index.html) | [Siguiente: Imágenes médicas →](02_imagenes_medicas.html)
