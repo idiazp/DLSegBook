@@ -23,7 +23,7 @@ A continuación, en la **Tabla 4** se resumen las diferentes modalidades tecnol�
 
 **Tabla 4.** Modalidades de adquisición de imágenes utilizadas en radioterapia.
 | Modalidad de imagen | Descripción |
-|---|---|
+|---------|-------------|
 | **CT convencional (fan-beam)** | Usada en planificación. Provee resolución espacial submilimétrica en el plano axial y, mediante reconstrucciones, puede analizarse en multiplanar. |
 | **Cone-Beam CT (CBCT)** | Tomografía de haz cónico integrada al equipo de tratamiento. Permite obtener imágenes 3D de menor calidad que la CT diagnóstica, pero suficientes para el registro posicional diario del paciente. |
 | **MRI de alto campo (1.5T o 3T)** | Empleada para diagnóstico y fusión en planificación. No utiliza radiación ionizante y ofrece excelente contraste en tejidos blandos. Su adquisición es más lenta y puede introducir distorsiones geométricas si no se corrigen adecuadamente. |
