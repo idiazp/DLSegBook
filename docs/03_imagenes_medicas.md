@@ -22,6 +22,7 @@ Durante la etapa de tratamiento, la radioterapia moderna hace uso extensivo de *
 A continuación, en la **Tabla 4** se resumen las diferentes modalidades tecnológicas de adquisición de imágenes relevantes en radioterapia:
 
 **Tabla 4.** Modalidades de adquisición de imágenes utilizadas en radioterapia.
+
 | Modalidad de imagen | Descripción |
 |---------|-------------|
 | **CT convencional (fan-beam)** | Usada en planificación. Provee resolución espacial submilimétrica en el plano axial y, mediante reconstrucciones, puede analizarse en multiplanar. |
