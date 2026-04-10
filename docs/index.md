@@ -14,9 +14,9 @@ Este material organiza conceptos fundamentales sobre radioterapia, imágenes mé
 - [2. Tratamiento del cáncer](02_tratamiento_cancer.html)
 
 ### Parte II. Base técnica
-- [2. Imágenes médicas](02_imagenes_medicas.html)
-- [3. Segmentación de órganos](03_segmentacion.html)
+- [3. Imágenes médicas](03_imagenes_medicas.html)
+- [4. Segmentación de órganos](04_segmentacion.html)
 
 ### Parte III. Modelos y evaluación
-- [4. Deep Learning para segmentación](04_deep_learning.html)
-- [5. Métricas de evaluación](05_metricas.html)
+- [5. Deep Learning para segmentación](05_deep_learning.html)
+- [6. Métricas de evaluación](06_metricas.html)
