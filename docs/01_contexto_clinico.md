@@ -23,19 +23,19 @@ En Chile, el cáncer de próstata representa una importante carga sanitaria y co
 
 ## Diagnóstico del cáncer de próstata
 
-El diagnóstico del cáncer de próstata generalmente comienza mediante pruebas de pesquisa y evaluaciones clínicas. Una de las herramientas más utilizadas es la medición en sangre del antígeno prostático específico (PSA). Niveles elevados de PSA pueden sugerir la presencia de un carcinoma prostático en etapas iniciales. No obstante, esta prueba carece de especificidad absoluta, ya que valores elevados también pueden observarse en condiciones benignas como la hiperplasia prostática benigna o procesos inflamatorios de la próstata.
+El diagnóstico del cáncer de próstata generalmente comienza mediante pruebas de pesquisa y evaluaciones clínicas. Una de las herramientas más utilizadas es la medición en sangre del **antígeno prostático específico (PSA)**. Niveles elevados de PSA pueden sugerir la presencia de un carcinoma prostático en etapas iniciales. No obstante, esta prueba carece de especificidad absoluta, ya que valores elevados también pueden observarse en condiciones benignas como la hiperplasia prostática benigna o procesos inflamatorios de la próstata.
 
-Por esta razón, la interpretación del PSA debe realizarse considerando múltiples factores clínicos, entre ellos la edad del paciente, la densidad del PSA y la velocidad de incremento del marcador en el tiempo. Además, suele complementarse con el examen digital rectal, que permite detectar irregularidades en la superficie prostática o áreas de induración sospechosas [4].
+Por esta razón, la interpretación del PSA debe realizarse considerando múltiples factores clínicos, entre ellos la edad del paciente, la densidad del PSA y la velocidad de incremento del marcador en el tiempo. Además, suele complementarse con el **examen digital rectal**, que permite detectar irregularidades en la superficie prostática o áreas de induración sospechosas [4].
 
 Cuando los hallazgos clínicos sugieren la presencia de malignidad, el diagnóstico definitivo se confirma mediante una biopsia prostática. Este procedimiento consiste en la obtención de múltiples muestras de tejido prostático que posteriormente son analizadas mediante examen histopatológico. El análisis microscópico permite confirmar la presencia de células tumorales y evaluar el grado de agresividad del cáncer mediante el **sistema de Gleason**, el cual clasifica el tumor según la arquitectura glandular observada. Esta clasificación proporciona información pronóstica relevante sobre el comportamiento biológico del tumor y su posible evolución clínica [5].
 
 ## Rol de las imágenes médicas
 
-La imagenología cumple un papel fundamental tanto en el diagnóstico como en la estadificación del cáncer de próstata. La ecografía transrectal es una técnica ampliamente utilizada para guiar biopsias prostáticas, aunque presenta limitaciones en la detección directa de lesiones tumorales.
+La imagenología cumple un papel fundamental tanto en el diagnóstico como en la estadificación del cáncer de próstata. La **ecografía transrectal** es una técnica ampliamente utilizada para guiar biopsias prostáticas, aunque presenta limitaciones en la detección directa de lesiones tumorales.
 
-En contraste, la resonancia magnética multiparamétrica (RMmp) ha demostrado una mayor capacidad para identificar lesiones sospechosas dentro de la próstata y evaluar la extensión local del tumor. Esta técnica combina múltiples secuencias de imagen que permiten caracterizar mejor el tejido prostático y facilita la realización de biopsias dirigidas hacia áreas con mayor probabilidad de malignidad.
+En contraste, la **resonancia magnética multiparamétrica (RMmp)** ha demostrado una mayor capacidad para identificar lesiones sospechosas dentro de la próstata y evaluar la extensión local del tumor. Esta técnica combina múltiples secuencias de imagen que permiten caracterizar mejor el tejido prostático y facilita la realización de biopsias dirigidas hacia áreas con mayor probabilidad de malignidad.
 
-En etapas más avanzadas de la enfermedad, otros estudios de imagen como la tomografía computarizada (TC) y la gammagrafía ósea pueden utilizarse para detectar la presencia de metástasis, particularmente en pacientes clasificados como de alto riesgo [6].
+En etapas más avanzadas de la enfermedad, otros estudios de imagen como la **tomografía computarizada (CT)** y la gammagrafía ósea pueden utilizarse para detectar la presencia de metástasis, particularmente en pacientes clasificados como de alto riesgo [6].
 
 **Síntesis**
 
