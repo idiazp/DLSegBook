@@ -44,4 +44,4 @@ La adopción universal de DICOM ha posibilitado un flujo de trabajo prácticamen
 Es importante mencionar que el manejo de imágenes oncológicas requiere consideraciones de seguridad y confidencialidad: DICOM permite anonimizar datos del paciente y asegurar la trazabilidad de modificaciones. Asimismo, la gran cantidad de imágenes generadas (por ejemplo, una CT 3D volumétrica, múltiples series MRI, scans diarios de verificación) exige sistemas robustos de almacenamiento y respaldo. En suma, el formato de registro DICOM, por ser un estándar ampliamente difundido, asegura la compatibilidad entre equipos de múltiples fabricantes y sienta las bases para un ecosistema tecnológico integrado en la atención radioterápica [36].
 
 
-[← Anterior](02_tratamiento_cancer.html) | [Siguiente: Deep Learning →](04_deap_learning.html)
+[← Anterior](02_tratamiento_cancer.html) | [Siguiente: Contorneo y segmentación automática →](04_segmentacion.html)
