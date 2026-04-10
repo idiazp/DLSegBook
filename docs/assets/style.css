@@ -4,7 +4,8 @@ body {
                Roboto, Helvetica, Arial, sans-serif;
   color: #222;
   background: #fff;
-  line-height: 1.7;
+  font-size: 15px;
+  line-height: 1.6;
 }
 
 .site {
@@ -105,18 +106,18 @@ body {
 }
 
 h1 {
-  font-size: 2.3rem;
+  font-size: 1.8rem;
   font-weight: 600;
   margin-top: 0;
 }
 
 h2 {
-  font-size: 1.6rem;
+  font-size: 1.4rem;
   font-weight: 600;
 }
 
 h3 {
-  font-size: 1.25rem;
+  font-size: 1.2rem;
   font-weight: 600;
 }
 
@@ -211,3 +212,6 @@ code, pre {
 .figure-caption b {
   font-weight: 600;
 }
+/* Tamaño general del texto */
+
+
