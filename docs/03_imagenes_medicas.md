@@ -41,4 +41,6 @@ En el contexto de la radioterapia, existen extensiones específicas del estánda
 La adopción universal de DICOM ha posibilitado un flujo de trabajo prácticamente *paperless* en radioterapia moderna, donde las imágenes del paciente y sus datos de contorneo se manejan digitalmente. También facilita la implementación de herramientas de inteligencia artificial, ya que muchos algoritmos de segmentación automática toman como entrada imágenes en formato DICOM y pueden incluso producir como salida contornos también en DICOM (formato *RT Struct*) listos para ser incorporados en el TPS. 
 
 Es importante mencionar que el manejo de imágenes oncológicas requiere consideraciones de seguridad y confidencialidad: DICOM permite anonimizar datos del paciente y asegurar la trazabilidad de modificaciones. Asimismo, la gran cantidad de imágenes generadas (por ejemplo, una CT 3D volumétrica, múltiples series MRI, scans diarios de verificación) exige sistemas robustos de almacenamiento y respaldo. En suma, el formato de registro DICOM, por ser un estándar ampliamente difundido, asegura la compatibilidad entre equipos de múltiples fabricantes y sienta las bases para un ecosistema tecnológico integrado en la atención radioterápica [36].
-Contenido en desarrollo.
+
+
+[← Anterior](02_tratamiento_cancer.html) | [Siguiente: Deep Learning →](04_deap_learning.html)
