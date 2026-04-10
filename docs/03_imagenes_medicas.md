@@ -19,17 +19,16 @@ Asimismo, en algunos centros se emplean imágenes funcionales o metabólicas, co
 
 Durante la etapa de tratamiento, la radioterapia moderna hace uso extensivo de **imágenes de verificación**. Los aceleradores lineales equipados con sistemas de **IGRT** pueden obtener radiografías ortogonales de baja dosis o incluso **reconstruir tomografías (CBCT)** del paciente inmediatamente antes de irradiar cada fracción [30], [31], [32], [33]. Estas imágenes se comparan con la de planificación para corregir desviaciones en la posición del paciente, ajustes de alineación, e incluso para detectar cambios anatómicos (como llenado de vejiga o recto) que pudieran requerir re-posicionamiento o adaptaciones del plan. De este modo, la imagenología en tiempo real garantiza que la radiación alcance el blanco con la precisión milimétrica planificada, incrementando la efectividad y seguridad del tratamiento.
  
-A continuación, se resumen las diferentes modalidades tecnológicas de adquisición de imágenes relevantes en radioterapia:
+A continuación, en la **Tabla 4** se resumen las diferentes modalidades tecnológicas de adquisición de imágenes relevantes en radioterapia:
 
-**•	CT convencional (fan-beam):** usada en planificación. Provee resolución espacial submilimétrica en axial, y con reconstrucciones puede analizarse en multiplanar.
-
-**•	Cone-Beam CT (CBCT):** tomografía de haz cónico a bordo del equipo de tratamiento, permite obtener imágenes 3D de menor calidad que la CT diagnóstica pero suficientes para registro posicional diario.
-
-**•	MRI de alto campo (1.5T o 3T):** empleada para diagnóstico y fusión en planificación. No emplea radiación ionizante y ofrece excelente contraste en tejidos blandos, aunque su adquisición es más lenta y puede introducir distorsiones geométricas si no se corrigen adecuadamente.
-
-**•	Ultrasonido (US):** de uso más limitado en radioterapia moderna, aunque existen sistemas de ultrasonido transperineal para guía de posicionamiento prostático sin radiación (ej. sistemas Clarity©). Históricamente el US transrectal guiaba la simulación en braquiterapia prostática [33], [34].
-
-**•	PET-CT:** combina imágenes metabólicas PET con una CT. En radioterapia de próstata puede usarse en estadios avanzados (para detectar diseminación ganglionar u ósea) o en recidiva para localizar tejido prostático activo. Nuevos radiofármacos específicos (p.ej. PET con PSMA) han mejorado la detección de recurrencias a baja carga tumoral.
+**Tabla 4.** Modalidades de adquisición de imágenes utilizadas en radioterapia.
+| Modalidad de imagen | Descripción |
+|---|---|
+| **CT convencional (fan-beam)** | Usada en planificación. Provee resolución espacial submilimétrica en el plano axial y, mediante reconstrucciones, puede analizarse en multiplanar. |
+| **Cone-Beam CT (CBCT)** | Tomografía de haz cónico integrada al equipo de tratamiento. Permite obtener imágenes 3D de menor calidad que la CT diagnóstica, pero suficientes para el registro posicional diario del paciente. |
+| **MRI de alto campo (1.5T o 3T)** | Empleada para diagnóstico y fusión en planificación. No utiliza radiación ionizante y ofrece excelente contraste en tejidos blandos. Su adquisición es más lenta y puede introducir distorsiones geométricas si no se corrigen adecuadamente. |
+| **Ultrasonido (US)** | De uso más limitado en radioterapia moderna. Existen sistemas de ultrasonido transperineal para guía de posicionamiento prostático sin radiación (por ejemplo, sistemas Clarity©). Históricamente, el ultrasonido transrectal se utilizó para guiar la simulación en braquiterapia prostática [33], [34]. |
+| **PET-CT** | Combina imágenes metabólicas PET con CT. En radioterapia de próstata puede emplearse en estadios avanzados para detectar diseminación ganglionar u ósea, o en casos de recidiva para localizar tejido prostático activo. Nuevos radiofármacos específicos (por ejemplo, PET con PSMA) han mejorado la detección de recurrencias a baja carga tumoral. |
 
 # Formato de registro de imágenes
 
